@@ -1,5 +1,5 @@
 {
-  "name": "@ocdladefense/example-project",
+  "name": "@ocdladefense/ocdla-maps",
   "version": "1.0.0",
   "scripts": {
     "build": "babel assets/js/src -d assets/js/lib"
