@@ -1,6 +1,6 @@
 {
   "name": "@ocdladefense/ocdla-maps",
-  "version": "1.0.0",
+  "version": "0.1.0-alpha",
   "scripts": {
     "build": "babel assets/js/src -d assets/js/lib"
   },
